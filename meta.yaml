@@ -1,0 +1,11 @@
+name: alert-dialog
+org: shadcn-spex
+version: 0.1.0
+description: "Pins the shadcn/ui AlertDialog contract: a modal role=\"alertdialog\" that traps focus, autofocuses Cancel, dismisses only via Escape/Cancel/Action (never outside click), and returns focus to its trigger."
+license: MIT
+repository: https://github.com/shadcn-spex/alert-dialog
+languages: [en]
+reference:
+  typescript:
+    agent: Claude Code
+    model: claude-fable-5
